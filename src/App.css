@@ -3,6 +3,8 @@
     flex-direction: column;
     align-items: center;
     padding-bottom: 200px;
+    color:rgb(212, 41, 41);
+    background-color: rgb(140, 218, 192);
   }
   
   .contenedor-logo {
